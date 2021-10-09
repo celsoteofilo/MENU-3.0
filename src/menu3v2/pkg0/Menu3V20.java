@@ -20,9 +20,8 @@ public class Menu3V20 {
 				+ "(4) - OFFICE 2010  \n"
 				+ "(5) - OFFICE 2007  \n"
 				+ "(6) - COREL X5   \n"
-				+ "(7) - SAIR  \n"
-				+ "TESTE OLA OLA ");
-				+ "TESTE OLA DANIEL ");
+				+ "(7) - SAIR  \n");
+				
 
 			System.out.println("Escolha sua OPAçAO : ");
 			opcao = entrada.nextInt();
