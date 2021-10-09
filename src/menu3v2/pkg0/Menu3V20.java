@@ -21,7 +21,7 @@ public class Menu3V20 {
 				+ "(5) - OFFICE 2007  \n"
 				+ "(6) - COREL X5   \n"
 				+ "(7) - SAIR  \n"
-				+ "TESTE @@@@@@@@@@");
+				+ "TESTE OLA OLA ");
 
 			System.out.println("Escolha sua OPAçAO : ");
 			opcao = entrada.nextInt();
